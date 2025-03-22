@@ -40,9 +40,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name:
+### Name: RAHUL V
 
-### Register Number:
+### Register Number: 212223240133
 
 ```python
 class Model(nn.Module):
